@@ -10,17 +10,21 @@ After the end of each meeting, meeting notes are published here.
 
 ## Upcoming meetings
 
-- 2022-05-26 at 8 AM PST = https://everytimezone.com/?t=628ec300,3c0
-- 2022-06-09 at 8 AM PST = https://everytimezone.com/?t=62a13800,3c0
+- 2022-07-21 at 8 AM PST = https://everytimezone.com/?t=62d89700,3c0
+- 2022-08-04 at 8 AM PST = https://everytimezone.com/?t=62eb0c00,3c0
 
 ## Past meetings
 
-**Most recent meeting:** 2022-05-12 ([minutes](2022-05-12-wecg.md))
+* 2022-07-07 ([minutes](2022-07-07-wecg.md))
+* 2022-06-23 ([minutes](2022-06-23-wecg.md))
+* 2022-06-09 ([minutes](2022-06-09-wecg.md))
+* 2022-05-26 ([minutes](2022-05-26-wecg.md))
+* 2022-05-12 ([minutes](2022-05-12-wecg.md))
 
 <details>
-  <summary><strong>2022 Meetings</strong></summary>
+<summary>Older meeting notes</summary>
 
-  * 2022-05-12 ([minutes](2022-05-12-wecg.md))
+* 2022
   * 2022-04-28 ([minutes](2022-04-28-wecg.md))
   * 2022-04-14 ([minutes](2022-04-14-wecg.md))
   * 2022-03-31 ([minutes](2022-03-31-wecg.md))
@@ -30,11 +34,7 @@ After the end of each meeting, meeting notes are published here.
   * 2022-02-03 ([minutes](2022-02-03-wecg.md))
   * 2022-01-20 ([minutes](2022-01-20-wecg.md))
   * 2022-01-06 ([minutes](2022-01-06-wecg.md))
-</details>
-
-<details>
-  <summary><strong>2021 Meetings</strong></summary>
-  
+* 2021
   * 2021-12-09 ([minutes](2021-12-09-wecg.md))
   * 2021-11-11 ([minutes](2021-11-11-wecg.md))
   * 2021-10-28 ([minutes](2021-10-28-wecg.md))
@@ -47,7 +47,5 @@ After the end of each meeting, meeting notes are published here.
   * 2021-07-22 ([minutes](2021-07-22-wecg.md))
   * 2021-07-08 ([minutes](2021-07-08-wecg.md))
   * 2021-06-24 ([minutes](2021-06-24-wecg.md))
+
 </details>
-
-
-  
